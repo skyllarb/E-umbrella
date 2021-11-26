@@ -24,7 +24,7 @@
 ## Installation
 Here are several links to help you get started:
 
-    node server.js
+    npm install or npm i for a shortcut!
 
 
 - [Install mysql2](https://www.npmjs.com/package/mysql2)
